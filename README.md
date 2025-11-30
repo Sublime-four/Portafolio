@@ -29,24 +29,6 @@ Centralizar CV, contacto y enlaces profesionales.
 
 Entregar una experiencia elegante, clara y con una narrativa enfocada en resultados.
 
-🛠️ Estructura del Proyecto
-/
-├── index.html                  # Página principal
-├── styles/                     # (Opcional) Carpeta si decides separar CSS
-├── icons/                      # Tech icons usados en Skills
-│   ├── java.svg
-│   ├── springboot.svg
-│   ├── react.svg
-│   ├── javascript.svg
-│   ├── typescript.svg
-│   └── etc...
-├── images/                     # Fotos de proyectos
-│   ├── opti-rutas-unillanos.jpeg
-│   ├── control-rfid.png
-│   ├── saber-pro.png
-│   └── foto-yohan.jpeg
-└── Hoja-de-vida-Minimalista.pdf
-
 📌 Secciones del sitio
 👋 Hero Section
 
